@@ -8,7 +8,7 @@ I spent about 4 hours on this assigment in total.
 This included learning about favicons which although creates a suble effect, was really cool to learn and implement.
 A good amount of time went into working with the public_html folder and changing rights. 
 
-I had originally uploaded my entire website to the cs server. I then created a completely new index that simply has a link
+I had originally uploaded my entire website to the cs server. I then edited the index so that it has a link
 that redirects to my GitHub website. 
 
 
